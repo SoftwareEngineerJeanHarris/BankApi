@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ug4m6aSzoiqdCUhnwnd/o1JpZoYYjBKjWpmWx+j6l0s=",
+  "Source": "BankApi",
+  "BasePath": "_content/BankApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
